@@ -1,5 +1,0 @@
-class hey
-{
-//some code
-
-}
